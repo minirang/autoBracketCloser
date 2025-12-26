@@ -17,10 +17,10 @@ in text inputs and textareas.
 
 This library is not published to npm.
 
-Just copy the code and include it in your project:
+Just copy or download the code and include it in your project:
 
 ```html
-<script src="https://raw.githubusercontent.com/minirang/autoBracketCloser/refs/heads/main/autoBracketClose.js"></script>
+<script src="autoBracketClose.js"></script>
 ```
 <br>
 
