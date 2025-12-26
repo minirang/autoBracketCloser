@@ -28,4 +28,4 @@ Just copy the code and include it in your project:
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
 <br>
-이번엔 인터넷에서 js문법과 함수같은거 찾아서 정말 열심히 했습니다. 일부분은 GPT가 도와줬습니다 힣
+이번엔 인터넷에서 js문법과 함수같은거 찾아서 정말 열심히 했습니다 ㅠㅠ 그리고 일부분은 GPT가 도와줬습니다 힣
