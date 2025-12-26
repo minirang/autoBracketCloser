@@ -27,3 +27,4 @@ Just copy the code and include it in your project:
 ---
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
+일부분은 GPT가 도와줌 힣
