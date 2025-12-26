@@ -1,6 +1,6 @@
 # autoBracketCloser
 
-A tiny JavaScript helper that automatically closes brackets and quotes
+A tiny JavaScript utility that automatically closes brackets and quotes
 in text inputs and textareas.
 
 ---
